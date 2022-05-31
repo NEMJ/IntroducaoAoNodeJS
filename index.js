@@ -11,6 +11,6 @@ connectToDatabase();
 // require("./modules/fs");
 // require("./modules/http.js");
 
-// require("./modules/express.js");
+require("./modules/express.js");
 
 // const person = new Person("Nelson");
